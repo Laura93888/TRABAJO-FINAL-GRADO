@@ -1,0 +1,11 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Config privada
+app/config.php
